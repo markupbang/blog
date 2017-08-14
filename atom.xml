@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://markupbang.github.io/blog/"/>
-  <updated>2017-08-14T07:12:54.044Z</updated>
+  <updated>2017-08-14T07:53:34.072Z</updated>
   <id>https://markupbang.github.io/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://markupbang.github.io/blog/2017/08/11/atom-packages/"/>
     <id>https://markupbang.github.io/blog/2017/08/11/atom-packages/</id>
     <published>2017-08-11T06:07:19.000Z</published>
-    <updated>2017-08-14T07:12:54.044Z</updated>
+    <updated>2017-08-14T07:53:34.072Z</updated>
     
     <content type="html"><![CDATA[<p>아톰에서 유용하게 사용하고 있는 패키지들을 소개해요.</p>
 <h2 id="Active-Power-Mode"><a href="#Active-Power-Mode" class="headerlink" title="Active Power Mode"></a><a href="https://atom.io/packages/activate-power-mode" target="_blank" rel="external">Active Power Mode</a></h2><p>졸리거나 지루할때 사용하면 따봉<br>화면 흔들림과 소리는 끄고 사용. 안그러면 아톰 뻗어요.</p>
@@ -45,7 +45,7 @@
 <p>원격 FTP/FTPS/SFTP를 사용할 수 있다.<br>로컬에 다운받아진 후 작업할 수 있다. 수정한 후 서버와 동기화는 선택할 수 있다.</p>
 <h2 id="seti-icons"><a href="#seti-icons" class="headerlink" title="seti-icons"></a>seti-icons</h2><p><img src="https://i.github-camo.com/bcbbef1f2dbc1260b544156c3d02a13db4c46b6c/68747470733a2f2f6769746875622e636f6d2f6a65737365776565642f736574692d75692f7261772f6d61737465722f73637265656e73686f742d69636f6e732e706e67" alt="Seti Icons"></p>
 <p>파일타입별 아이콘 표시</p>
-<h2 id="sync-settings"><a href="#sync-settings" class="headerlink" title="sync-settings"></a><a href="https://atom.io/packages/sync-settings" target="_blank" rel="external">sync-settings</a></h2><p>Atom의 설정파일을 gist에 백업하거나 복원한다.<br>gist 설정이 귀찮긴 하지만 한번해놓으면 좋다.</p>
+<h2 id="sync-settings"><a href="#sync-settings" class="headerlink" title="sync-settings"></a><a href="https://atom.io/packages/sync-settings" target="_blank" rel="external">sync-settings</a></h2><p>Atom의 설정파일을 gist에 백업하거나 복원!<br>gist 설정이 귀찮긴 하지만 한번해놓으면 좋다.</p>
 ]]></content>
     
     <summary type="html">
