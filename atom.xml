@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://markupbang.github.io/blog/"/>
-  <updated>2017-08-30T08:19:02.362Z</updated>
+  <updated>2017-08-30T08:38:56.746Z</updated>
   <id>https://markupbang.github.io/blog/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>automation</title>
+    <title>Automation</title>
     <link href="https://markupbang.github.io/blog/2017/08/30/automation/"/>
     <id>https://markupbang.github.io/blog/2017/08/30/automation/</id>
     <published>2017-08-30T08:17:36.000Z</published>
-    <updated>2017-08-30T08:19:02.362Z</updated>
+    <updated>2017-08-30T08:38:56.746Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight diff"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="addition">+ node version 7.5.0</span></div><div class="line"><span class="addition">+ npm version 4.1.2</span></div></pre></td></tr></table></figure>
 <h1 id="Gulp-setting"><a href="#Gulp-setting" class="headerlink" title="Gulp setting"></a>Gulp setting</h1><h2 id="1-gulp-sass-lint"><a href="#1-gulp-sass-lint" class="headerlink" title="1. gulp-sass-lint"></a>1. gulp-sass-lint</h2><h3 id="gulp-gulp-sass-lint"><a href="#gulp-gulp-sass-lint" class="headerlink" title="gulp + gulp-sass-lint"></a>gulp + gulp-sass-lint</h3><ul>
