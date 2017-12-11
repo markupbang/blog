@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://markupbang.github.io/blog/"/>
-  <updated>2017-12-11T08:18:05.322Z</updated>
+  <updated>2017-12-11T08:22:28.780Z</updated>
   <id>https://markupbang.github.io/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://markupbang.github.io/blog/2017/12/11/Hexo-setting-deploy/"/>
     <id>https://markupbang.github.io/blog/2017/12/11/Hexo-setting-deploy/</id>
     <published>2017-12-11T05:48:53.000Z</published>
-    <updated>2017-12-11T08:18:05.322Z</updated>
+    <updated>2017-12-11T08:22:28.780Z</updated>
     
     <content type="html"><![CDATA[<p>Hexo로 Github 블로그를 만들었지만 포스팅을 자주 하지 않다보니 배포 과정을 매번 잊어버려서 정리해야겠다 싶어 포스팅 한다.<br>포스팅 하는김에 블로그 설정과 배포까지의 과정을 적어본다.</p>
 <p>깃허브 페이지는 지킬(Jekyll)과 헥소(Hexo)가 많이 사용되며 지킬이 대표적으로 사용된다. 지킬을 살펴보니 Ruby로 구동되고 Hexo는 NodeJs로 구동되었다.<br>Ruby는 레거시의 느낌이라 나는 NodeJs로 구동되는 Hexo로 블로그를 만들기로 하였다.</p>
